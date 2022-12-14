@@ -44,7 +44,7 @@
                 android:id="@+id/text3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Followers"
+                android:text="@string/followers"
                 android:layout_weight="1"
                 android:gravity="center"
                 />
@@ -53,7 +53,7 @@
                 android:id="@+id/text4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Following"
+                android:text="@string/following"
                 android:layout_weight="1"
                 android:gravity="center"
                 />
@@ -62,7 +62,7 @@
                 android:id="@+id/text5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Estrellita"
+                android:text="@string/estrellita"
                 android:layout_weight="1"
                 android:gravity="center"
                 />

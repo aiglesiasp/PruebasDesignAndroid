@@ -2,4 +2,7 @@
     <string name="app_name">PruebasDesignAndroid</string>
     <string name="nombre">Nombre</string>
     <string name="edit_profile">Edit Profile</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="estrellita">Estrellita</string>
 </resources>
