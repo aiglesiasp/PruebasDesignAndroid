@@ -18,13 +18,35 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp" />
 
-    <Button
-        android:id="@+id/button"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button"
-        android:layout_marginHorizontal="20dp"
-        android:layout_marginVertical="20dp"
-        />
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CANCELAR"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginVertical="20dp"
+            />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ACEPTAR"
+            android:layout_weight="1"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginVertical="20dp"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
 
 </LinearLayout>
