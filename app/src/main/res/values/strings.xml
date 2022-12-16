@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">PruebasDesignAndroid</string>
     <string name="nombre">Nombre</string>
-    <string name="edit_profile">Edit Profile</string>
-    <string name="followers">Followers</string>
-    <string name="following">Following</string>
-    <string name="estrellita">Estrellita</string>
+    <string name="editarPerfil">Editar Perfil</string>
+    <string name="seguidores">Seguidores</string>
+    <string name="Siguiendo">Siguiendo</string>
+    <string name="Favoritos">Estrellita</string>
 </resources>

@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="20dp"
         android:layout_marginVertical="10dp"
-        android:text="@string/edit_profile" />
+        android:text="@string/editarPerfil" />
 
 
         <!--LAYOUT DE OPCIONES HORIZONTAL -->
@@ -44,7 +44,7 @@
                 android:id="@+id/text3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/followers"
+                android:text="@string/seguidores"
                 android:layout_weight="1"
                 android:gravity="center"
                 />
@@ -53,7 +53,7 @@
                 android:id="@+id/text4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/following"
+                android:text="@string/Siguiendo"
                 android:layout_weight="1"
                 android:gravity="center"
                 />
@@ -62,7 +62,7 @@
                 android:id="@+id/text5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/estrellita"
+                android:text="@string/Favoritos"
                 android:layout_weight="1"
                 android:gravity="center"
                 />

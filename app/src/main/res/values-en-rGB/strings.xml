@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PruebasDesignAndroid</string>
+    <string name="nombre">Name</string>
+    <string name="editarPerfil">Edit Profile</string>
+    <string name="seguidores">Followers</string>
+    <string name="Siguiendo">Following</string>
+    <string name="Favoritos">Star</string>
+</resources>
